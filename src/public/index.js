@@ -13,7 +13,7 @@ const render = () => ReactDOM.render(
     onIncrement={() => store.dispatch({ type: 'INCREMENT' })}
     onDecrement={() => store.dispatch({ type: 'DECREMENT' })}
   />,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
 
 render();

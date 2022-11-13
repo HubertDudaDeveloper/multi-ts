@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_app.sass"],"sourcesContent":[".App\r\n  text-align: center\r\n  display: flex\r\n  flex-direction: column"],"file":"_app.css"}

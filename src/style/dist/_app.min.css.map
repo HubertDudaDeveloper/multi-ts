@@ -1,0 +1,1 @@
+{"version":3,"sources":["_app.sass"],"names":[],"mappings":"AAAA,KACE,WAAY,OACZ,QAAS,KACT,eAAgB","file":"_app.min.css","sourcesContent":[".App\r\n  text-align: center\r\n  display: flex\r\n  flex-direction: column"]}
